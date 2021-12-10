@@ -7,7 +7,7 @@ SubQuery powers the next generation of Polkadot dApps by allowing developers to 
 This subquery example indexes the amount transferred of each account and it is an example of a 1-many entity relationshp. In other words, one account can have many receiving addresses.
 
 # SubQuery Example - Account transfers : Result
-![alt text](https://github.com/TsuyuKenchuu/SubQuery-Module-2-Exercise-Account-Balances/blob/master/SubQuery-M03-EX1.JPG?raw=true)
+![alt text](https://github.com/TsuyuKenchuu/SubQuery-Module-3-Exercise-Account-Transfer/blob/master/SubQuery-M03-EX1.JPG?raw=true)
 
 # Getting Started
 
